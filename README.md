@@ -7,13 +7,19 @@ Install (recommended via curl)
 
 Replace USERNAME and REPO with your GitHub repository info:
 
-"bash <(curl -fsSL https://raw.githubusercontent.com/Unknown-sir/RskhiFix/main/install.sh)"
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/Unknown-sir/RskhiFix/main/install.sh)
+```
 
 Install (via wget)
-"wget -qO- https://raw.githubusercontent.com/Unknown-sir/RskhiFix/main/install.sh | bash"
+```
+wget -qO- https://raw.githubusercontent.com/Unknown-sir/RskhiFix/main/install.sh | bash
+```
 
 After install
 
 Open the panel with:
 
-"Rskhi"
+```
+Rskhi
+```
