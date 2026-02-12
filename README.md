@@ -23,3 +23,5 @@ Open the panel with:
 ```
 Rskhi
 ```
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Unknown-sir/RskhiFix.svg?variant=adaptive)](https://starchart.cc/Unknown-sir/RskhiFix)
