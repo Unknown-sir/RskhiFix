@@ -5,7 +5,6 @@ RskhiFix is a bash script that creates and manages multiple systemd services. Ea
 
 Install (recommended via curl)
 
-Replace USERNAME and REPO with your GitHub repository info:
 
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/Unknown-sir/RskhiFix/main/install.sh)
