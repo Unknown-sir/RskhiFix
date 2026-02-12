@@ -128,8 +128,8 @@ create_service_wizard() {
 
   echo
   echo "Select where you are installing:"
-  echo "  1) Iran server (you must enter the OUTSIDE local IP)"
-  echo "  2) Outside server (you must enter the IRAN local IP)"
+  echo "  1) Iran server (you must enter the Kharej local IP)"
+  echo "  2) Kharej server (you must enter the IRAN local IP)"
 
   local choice=""
   while true; do
@@ -142,9 +142,9 @@ create_service_wizard() {
   local prompt=""
   if [[ "$choice" == "1" ]]; then
     side="IRAN"
-    prompt="Enter OUTSIDE local IP (e.g., 10.100.100.2): "
+    prompt="Enter Kharej local IP (e.g., 10.100.100.2): "
   else
-    side="OUTSIDE"
+    side="Kharej"
     prompt="Enter IRAN local IP (e.g., 10.100.100.1): "
   fi
 
