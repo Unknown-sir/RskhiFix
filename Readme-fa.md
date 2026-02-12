@@ -28,6 +28,3 @@ RskhiFix-1
 
 RskhiFix-2
 
-...
-
-English
